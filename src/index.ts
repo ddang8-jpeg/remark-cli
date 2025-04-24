@@ -6,7 +6,7 @@ import { testFunction } from './commands/testFunction';
 const program = new Command();
 
 program
-  .name('remark-backend-cli')
+  .name('remark-cli')
   .description(
     'A CLI tool built with TypeScript and Node.js for the Backend Challenge at Remark'
   )
